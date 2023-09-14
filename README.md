@@ -32,5 +32,5 @@ ___
 ### 📫 How to reach me
 ___
 * Jonathan3.walker@famu.edu
-* LinkedIn: linkedin.com/in/rowanosmon
+* LinkedIn: linkedin.com/in/jonathan-osborne-walker
 * GitHub: github.com/JonathanWalkerCS
