@@ -16,10 +16,11 @@ ___
 
 ### 🚀 Projects:
 ___
-* racing.cpp
-* acmebank.cpp
-* scores.cpp
-
+* racing.cpp: calculates the total race times at a triathlon
+  
+* acmebank.cpp: performs the actions of a bank
+  
+* scores.cpp: reads a data file containing last names and exam scores
 
 
 ### 🏆 Leadership:
