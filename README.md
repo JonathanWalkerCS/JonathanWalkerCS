@@ -23,13 +23,31 @@ ___
 * scores.cpp: reads a data file containing last names and exam scores
 
 
-### 🏆 Leadership:
+### ✏️ Extracurricular activities:
 ___
-* ISACA Student Group, President
-* April 2023 - Present
-  
+* ISACA Student Group
 
-### 📫 How to reach me
+  | President | April 2023 - Present|
+  
+* The Computer and Information Sciences (CIS) ACM Club
+
+  | Member | September 2022 - Present|
+  
+* Computer & Information Sciences Mentoring Organization (CISMO)
+
+  | Member | September 2022 - Present|
+  
+* Secured Rattlers
+
+  | Member | September 2022 - Present|
+  
+* Male Academic Leadership & Excellence Themed Learning Community
+
+  | Member | September 2022 - July 2023|
+
+
+  
+### 📫 Contact information:
 ___
 * Jonathan3.walker@famu.edu
 * LinkedIn: linkedin.com/in/jonathan-osborne-walker
