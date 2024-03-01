@@ -4,11 +4,13 @@ Welcome to my Github profile. I am Jonathan Walker, an aspiring software develop
 
 ### 🔧 Skills and Relevant Experience
 ___
-* Introduction to Computers with Programming
-* Fundamentals of programming
-* Intro to Security
-* Applied Security
+* Object-Oriented Programming
+* Database Management Systems
 * Network Security and cryptography
+* Fundamentals of programming
+* Applied Security
+* Intro to Security
+* Introduction to Computers with Programming
 
 ### 🎓 Education & Coursework:
 ___
