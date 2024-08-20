@@ -52,5 +52,5 @@ ___
 ### 📫 Contact information:
 ___
 * Jonathan3.walker@famu.edu
-* LinkedIn: linkedin.com/in/jonathan-osborne-walker
+* LinkedIn: www.linkedin.com/in/jonathan-walker-cs
 * GitHub: github.com/JonathanWalkerCS
