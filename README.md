@@ -1,6 +1,6 @@
 ### Greetings all,
 
-Welcome to my Github profile. I am Jonathan Walker, a computer science scholar attending Florida Agricultural and Mechanical University. 
+Welcome to my Github profile. I am Jonathan Walker, a computer science scholar currently attending Florida Agricultural and Mechanical University. 
 
 ### 🚀 Projects:
 ___
