@@ -4,6 +4,14 @@ Welcome to my Github profile. I am Jonathan Walker, a computer science scholar a
 
 ### 🚀 Projects:
 ___
+* query.py: A command-line Python script that copies SQL queries directly to the clipboard for quick access and use.
+  
+* sortingsearching.cpp: Allows the user to apply both searching and sorting algorithms to an integer array created from their inputs.
+
+* browser.cpp: Program, File and Data Structures
+
+* insurance.py: An application designed to connect and interact with a database storing various insurance polices. 
+
 * racing.cpp: calculates the total race times at a triathlon
   
 * acmebank.cpp: performs the actions of a bank
