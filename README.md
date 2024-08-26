@@ -18,8 +18,6 @@ ___
   
 * scores.cpp: reads a data file containing last names and exam scores
   
-### 📫 Contact information:
+### 📫 Other Contact:
 ___
-* Email: Jonathanwalkercs@gmail.com
 * LinkedIn: www.linkedin.com/in/jonathan-walker-cs
-* GitHub: github.com/JonathanWalkerCS
