@@ -12,19 +12,40 @@ Welcome to my Github profile. I am Jonathan Walker, a computer science scholar c
 
 
 ## Experience
-
-* **Intelligent Automation (IA) Engineer Intern**
-    * Dell Technologies | Round Rock, TX
-* **Undergraduate Data Science Researcher**
-    * The Data Mine, Purdue University | West Lafayette, IN
-* **Northrop Grumman REP Student Researcher**
-    * FAMU-FSU College of Engineering | Tallahassee, FL
-* **Computer Science (CEE) Intern**
-    * SJGC, Florida Agricultural and Mechanical University | Tallahassee, FL
-* **Artificial Intelligence (AI) Research Intern**
-    * Dugree-Head On Broadway, NY
-* **Computer Science (CEE) Intern**
-    * SBI Budget Office, Florida Agricultural and Mechanical University | Tallahassee, FL
+<table>
+    <thead>
+        <tr>
+            <th>Role</th>
+            <th>Company & Location</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Intelligent Automation (IA) Engineer Intern</td>
+            <td>Dell Technologies | Round Rock, TX</td>
+        </tr>
+        <tr>
+            <td>Undergraduate Data Science Researcher</td>
+            <td>The Data Mine, Purdue University | West Lafayette, IN</td>
+        </tr>
+        <tr>
+            <td>Northrop Grumman REP Student Researcher</td>
+            <td>FAMU-FSU College of Engineering | Tallahassee, FL</td>
+        </tr>
+        <tr>
+            <td>Computer Science (CEE) Intern</td>
+            <td>SJGC, Florida Agricultural and Mechanical University | Tallahassee, FL</td>
+        </tr>
+        <tr>
+            <td>Artificial Intelligence (AI) Research Intern</td>
+            <td>Dugree-Head On Broadway, NY</td>
+        </tr>
+        <tr>
+            <td>Computer Science (CEE) Intern</td>
+            <td>SBI Budget Office, Florida Agricultural and Mechanical University | Tallahassee, FL</td>
+        </tr>
+    </tbody>
+</table>
       
 ## Favorite Projects
 * query.py: A command-line Python script that copies SQL queries directly to the clipboard for quick access and use.
