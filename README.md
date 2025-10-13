@@ -1,6 +1,6 @@
 Welcome to my Github profile. I am Jonathan Walker, a computer science scholar currently attending Florida Agricultural and Mechanical University. 
 
-**Table of Contents**
+**Table of Contents:**
 1. [About me](#about-me)
 3. [Favorite Projects](#favorite-projects)
 4. [Extracurricular & External Involvement](#Extracurricular-Involvement)
@@ -32,7 +32,7 @@ My primary fields of interest are Intelligent Automation, Artificial Intelligenc
         <tr>
             <td><code>browser.cpp</code></td>
             <td>C++</td>
-            <td>Uses linked lists, stacks, queues and arrays to replicate the functions of a web browser.</td>
+            <td>Uses linked lists, stacks, queues, and arrays to replicate the functions of a web browser.</td>
         </tr>
         <tr>
             <td><code>insurance.py</code></td>
