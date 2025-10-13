@@ -16,33 +16,33 @@ Welcome to my Github profile. I am Jonathan Walker, a computer science scholar c
     <thead>
         <tr>
             <th>Role</th>
-            <th>Company & Location</th>
+            <th>Organization</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Intelligent Automation (IA) Engineer Intern</td>
-            <td>Dell Technologies | Round Rock, TX</td>
+            <td>Dell Technologies</td>
         </tr>
         <tr>
             <td>Undergraduate Data Science Researcher</td>
-            <td>The Data Mine, Purdue University | West Lafayette, IN</td>
+            <td>The Data Mine, Purdue University</td>
         </tr>
         <tr>
             <td>Northrop Grumman REP Student Researcher</td>
-            <td>FAMU-FSU College of Engineering | Tallahassee, FL</td>
+            <td>FAMU-FSU College of Engineering </td>
         </tr>
         <tr>
             <td>Computer Science (CEE) Intern</td>
-            <td>SJGC, Florida Agricultural and Mechanical University | Tallahassee, FL</td>
+            <td>School of Journalism & Graphic Communication (SJGC), Florida Agricultural and Mechanical University</td>
         </tr>
         <tr>
             <td>Artificial Intelligence (AI) Research Intern</td>
-            <td>Dugree-Head On Broadway, NY</td>
+            <td>Dugree-Head On</td>
         </tr>
         <tr>
             <td>Computer Science (CEE) Intern</td>
-            <td>SBI Budget Office, Florida Agricultural and Mechanical University | Tallahassee, FL</td>
+            <td>School of Business and Industry (SBI), Budget Office, Florida Agricultural and Mechanical University</td>
         </tr>
     </tbody>
 </table>
