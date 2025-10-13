@@ -12,40 +12,15 @@ Welcome to my Github profile. I am Jonathan Walker, a computer science scholar c
 
 
 ## Experience
-<table>
-    <thead>
-        <tr>
-            <th>Role</th>
-            <th>Organization</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Intelligent Automation (IA) Engineer Intern</td>
-            <td>Dell Technologies</td>
-        </tr>
-        <tr>
-            <td>Undergraduate Data Science Researcher</td>
-            <td>The Data Mine, Purdue University</td>
-        </tr>
-        <tr>
-            <td>Northrop Grumman REP Student Researcher</td>
-            <td>FAMU-FSU College of Engineering </td>
-        </tr>
-        <tr>
-            <td>Computer Science (CEE) Intern</td>
-            <td>School of Journalism & Graphic Communication (SJGC), Florida Agricultural and Mechanical University</td>
-        </tr>
-        <tr>
-            <td>Artificial Intelligence (AI) Research Intern</td>
-            <td>Dugree-Head On</td>
-        </tr>
-        <tr>
-            <td>Computer Science (CEE) Intern</td>
-            <td>School of Business and Industry (SBI), Budget Office, Florida Agricultural and Mechanical University</td>
-        </tr>
-    </tbody>
-</table>
+
+| Role | Company & Location |
+| :--- | :--- |
+| **Intelligent Automation (IA) Engineer Intern** | Dell Technologies | Round Rock, TX |
+| **Undergraduate Data Science Researcher** | The Data Mine, Purdue University | West Lafayette, IN |
+| **Northrop Grumman REP Student Researcher** | FAMU-FSU College of Engineering | Tallahassee, FL |
+| **Computer Science (CEE) Intern** | SJGC, Florida Agricultural and Mechanical University | Tallahassee, FL |
+| **Artificial Intelligence (AI) Research Intern** | Dugree-Head On Broadway, NY |
+| **Computer Science (CEE) Intern** | SBI Budget Office, Florida Agricultural and Mechanical University | Tallahassee, FL |
       
 ## Favorite Projects
 <h2>Favorite Projects</h2>
