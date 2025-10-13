@@ -41,7 +41,7 @@
   
 * scores.cpp: reads a data file containing last names and exam scores
 
-## Extracurricular/External Involvement
+## Extracurricular & External Involvement
 
 * **ISACA Student Group** - President
 * **ThermoFisher Scientific** - Emerging Leader
