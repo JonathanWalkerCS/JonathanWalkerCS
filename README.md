@@ -7,7 +7,7 @@ Welcome to my Github profile. I am Jonathan Walker, a computer science scholar c
 
 
 ## About me
-
+My primary fields of interest are Intelligent Automation, Artificial Intelligence and Data Science. In my free time I enjoy jogging, reading science fiction, gardening, watching anime, and playing soccer. 
       
 ## Favorite Projects
 <table border="1" cellpadding="5" cellspacing="0">
