@@ -2,25 +2,12 @@ Welcome to my Github profile. I am Jonathan Walker, a computer science scholar c
 
 **Table of Contents**
 1. [About me](#about-me)
-2. [Experience](#experience)
 3. [Favorite Projects](#favorite-projects)
 4. [Extracurricular & External Involvement](#Extracurricular-Involvement)
 
 
 ## About me
 
-
-
-## Experience
-
-| Role | Company & Location |
-| :--- | :--- |
-| **Intelligent Automation (IA) Engineer Intern** | Dell Technologies | Round Rock, TX |
-| **Undergraduate Data Science Researcher** | The Data Mine, Purdue University | West Lafayette, IN |
-| **Northrop Grumman REP Student Researcher** | FAMU-FSU College of Engineering | Tallahassee, FL |
-| **Computer Science (CEE) Intern** | SJGC, Florida Agricultural and Mechanical University | Tallahassee, FL |
-| **Artificial Intelligence (AI) Research Intern** | Dugree-Head On Broadway, NY |
-| **Computer Science (CEE) Intern** | SBI Budget Office, Florida Agricultural and Mechanical University | Tallahassee, FL |
       
 ## Favorite Projects
 <h2>Favorite Projects</h2>
