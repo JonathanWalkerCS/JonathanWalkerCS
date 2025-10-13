@@ -97,46 +97,12 @@ Welcome to my Github profile. I am Jonathan Walker, a computer science scholar c
 </table>
 
 ## Extracurricular Involvement
-<h2>Extracurricular Involvement</h2>
-<table border="1" cellpadding="5" cellspacing="0">
-    <thead>
-        <tr>
-            <th>Organization</th>
-            <th>Role</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>ISACA Student Group</td>
-            <td>President</td>
-        </tr>
-        <tr>
-            <td>ThermoFisher Scientific</td>
-            <td>Emerging Leader</td>
-        </tr>
-        <tr>
-            <td>HBCU Data Science Student Ambassadors (HBCU-DSSA)</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>STARS Alliance Student Computing Corps</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>National Society of Black Engineers (NSBE)</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>Black Data Processing Associates (BDPA)</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>Association for Computing Machinery (ACM)</td>
-            <td>Member</td>
-        </tr>
-        <tr>
-            <td>Computer & Information Sciences Mentoring Organization (CISMO)</td>
-            <td>Member</td>
-        </tr>
-    </tbody>
-</table>
+
+* **ISACA Student Group** - President
+* **ThermoFisher Scientific** - Emerging Leader
+* **HBCU Data Science Student Ambassadors (HBCU-DSSA)** - Member
+* **STARS Alliance Student Computing Corps** - Member
+* **National Society of Black Engineers (NSBE)** - Member
+* **Black Data Processing Associates (BDPA)** - Member
+* **Association for Computing Machinery (ACM)** - Member
+* **Computer & Information Sciences Mentoring Organization (CISMO)** - Member
