@@ -4,7 +4,7 @@
 1. [About me](#about-me)
 2. [Experience](#experience)
 3. [Favorite Projects](#favorite-projects)
-4. [Extracurricular/External Involvement](#Extracurricular-External-Involvement)
+4. [Extracurricular & External Involvement](#Extracurricular-&-External-Involvement)
 
 
 ## About me
