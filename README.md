@@ -1,6 +1,7 @@
 Welcome to my Github profile. I am Jonathan Walker, a computer science scholar currently attending Florida Agricultural and Mechanical University. 
 
-Linkedin: [Jonathan-Walker-CS](https://www.linkedin.com/in/jonathan-walker-cs/)
+- > Linkedin: [Jonathan-Walker-CS](https://www.linkedin.com/in/jonathan-walker-cs/)
+- > Kaggle: [JonathanWalkerCS](https://www.kaggle.com/jonathanwalkercs)
 
 **Table of Contents:**
 1. [About me](#about-me)
