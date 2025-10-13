@@ -9,10 +9,10 @@ Welcome to my Github profile. I am Jonathan Walker, a computer science scholar c
 4. [Extracurricular & External Involvement](#Extracurricular-Involvement)
 
 
-## About me
+## About me:
 My primary fields of interest are Intelligent Automation, Artificial Intelligence and Data Science. In my free time I enjoy jogging, reading science fiction, gardening, watching anime, and playing soccer. 
       
-## Favorite Projects
+## Favorite Projects:
 <table border="1" cellpadding="5" cellspacing="0">
     <thead>
         <tr>
@@ -60,7 +60,7 @@ My primary fields of interest are Intelligent Automation, Artificial Intelligenc
     </tbody>
 </table>
 
-## Extracurricular Involvement
+## Extracurricular Involvement:
 
 * **ISACA Student Group** - President
 * **ThermoFisher Scientific** - Emerging Leader
